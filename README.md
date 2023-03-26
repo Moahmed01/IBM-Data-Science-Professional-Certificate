@@ -4,3 +4,70 @@
 
 [![Header](https://user-images.githubusercontent.com/84391594/152703941-8c1b3e93-7358-4274-8c7d-b152d3132814.png)](https://www.coursera.org/professional-certificates/ibm-data-science)
 
+## 📄 About
+9
+The <a href="https://www.coursera.org/professional-certificates/ibm-data-science">IBM Data Science Professional Certification</a> consists of 10 online courses that provide the tools and skills to succeed in data science, including use of open source tools and libraries, Python, databases, SQL, data visualization, data analysis, statistical analysis, predictive modeling, and machine learning algorithms. 
+10
+​
+11
+This repository contains documentation and resources used to complete the certification, relevant notes and other code snippets, and proof of certification for each course.
+12
+​
+13
+​
+14
+​
+15
+## 📑 Courses
+16
+- :white_check_mark: 01. What is Data Science?
+17
+- :white_check_mark: 02. Tools for Data Science
+18
+- :white_check_mark: 03. Data Science Methodology
+19
+- :white_check_mark: 04. Python for Data Science, AI & Development
+20
+- :white_check_mark: 05. Python Project for Data Science
+21
+- :white_check_mark: 06. Databases and SQL for Data Science with Python
+22
+- :white_check_mark: 07. Data Analysis with Python
+23
+- :white_check_mark: 08. Data Visualization with Python
+24
+- :white_check_mark: 09. Machine Learning with Python
+25
+- :white_check_mark: 10. Applied Data Science Capstone
+26
+​
+27
+## 🛠️ Tools
+28
+The following tools were used to complete this certification: <br> <br>
+29
+  <img src="https://user-images.githubusercontent.com/84391594/152705364-f16bb223-41aa-4510-8113-51171dfe9953.png" height="75">
+30
+  <img src="https://user-images.githubusercontent.com/84391594/152705271-083f8784-b3c9-4065-9733-ea3fa8ad5a7a.png" height="75">
+31
+  <img src="https://user-images.githubusercontent.com/84391594/152705273-adffe1bf-b509-44d0-b3ac-671cce5071df.svg" height="75">
+32
+  <img src="https://user-images.githubusercontent.com/84391594/152705324-68f777a0-3875-4b65-ae96-646643284541.png" height="75">
+33
+  <img src="https://user-images.githubusercontent.com/84391594/152705298-bb170d32-3dd0-4ad4-8221-8b7b029116b4.png" height="75">
+34
+</p>
+35
+(Python, Jupyter, GitHub, IBM Watson Studio, IBM Cloud Pak)
+36
+​
+37
+## 📖 Libraries
+38
+The following Python libraries were used throughout the certification: <br> 
+39
+<p align="left">
+40
+  <img  src="https://user-images.githubusercontent.com/84391594/152706127-ce41990f-2588-472a-b5df-6b403a5947e6.png" height="35">
+41
+  <img  src="https://user-images.githubusercontent.com/84391594/152706130-5577011e-ecb3-47aa-af73-f6bd1bda05bc.png" height="35">
