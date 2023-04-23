@@ -16,7 +16,7 @@ Data science is the field of gaining insights from data, often with a focus on u
 - An overall understanding of what data science is, and why it is changing the way we do business and research.
 
 ## 🏆 Certificates 
-To verify the certificates, click the images to follow the links.
+To verify the certificates, click the images to follow the links..
 
 
 
